@@ -1,0 +1,27 @@
+_repo: Water-and-power-for-San-Francisco-from-Hetch-Hetchy-Valley-in-Yosemite-national-park_68805
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Vilas, Martin Samuel
+    gutenberg_agent_id: '54955'
+    url: http://www.gutenberg.org/2009/agents/54955
+description: ''
+gutenberg_issued: '2022-08-21'
+identifiers:
+  gutenberg: '68805'
+language: en
+pgterms:marc905: 20061014172253vilas
+pgterms:marc906: '1915'
+pgterms:marc907: US
+production_note: Bryan Ness and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by the Library of
+  Congress)
+publication_note: United States :Free press association,1915.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Water and power for San Francisco from Hetch-Hetchy Valley in Yosemite national
+  park
+url: http://www.gutenberg.org/ebooks/68805
